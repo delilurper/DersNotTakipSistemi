@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="DersNotTakipSistemi.vcxproj" />
+  <Project Path="DersNotTakipSistemi.vcxproj" Id="7cd29299-f5c3-4eb5-8553-927bc70abb2c" />
 </Solution>

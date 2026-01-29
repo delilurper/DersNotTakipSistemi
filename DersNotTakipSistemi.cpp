@@ -10,6 +10,7 @@ int main()
     int toplam = 0;
     int enYuksek = 0;
     int enDusuk = 0;
+    
 
     do {
         cout << "\n--- DERS NOTU TAKÝP UYGULAMASI ---\n";
@@ -68,7 +69,16 @@ int main()
             }
             else
             {
-                cout << "Notlarin ortalamasi: " << (double)toplam / notSayisi << endl;
+                double ortalama = (double)toplam / notSayisi;
+                cout << "Notlarin ortalamasi: " << ortalama << endl;
+                if (ortalama >= 50.0)
+                {
+                    cout << "Sinifi gectiniz." << endl;
+                }
+                else
+                {
+                    cout << "Sinifta kaldiniz." << endl;
+                }
             }
             break;
 
