@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+
+# User-specific files
+*.user
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Logs
+*.log
