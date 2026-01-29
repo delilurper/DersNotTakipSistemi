@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\DersNotTakipSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD29299-F5C3-4EB5-8553-927BC70ABB2C}|DersNotTakipSistemi.vcxproj|C:\\Users\\ASUS\\source\\repos\\DersNotTakipSistemi\\DersNotTakipSistemi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CD29299-F5C3-4EB5-8553-927BC70ABB2C}|DersNotTakipSistemi.vcxproj|solutionrelative:DersNotTakipSistemi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DersNotTakipSistemi.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DersNotTakipSistemi\\DersNotTakipSistemi.cpp",
+              "RelativeDocumentMoniker": "DersNotTakipSistemi.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DersNotTakipSistemi\\DersNotTakipSistemi.cpp",
+              "RelativeToolTip": "DersNotTakipSistemi.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAiwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T00:02:23.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
