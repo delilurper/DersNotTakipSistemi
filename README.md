@@ -1,40 +1,27 @@
-\# Ders Not Takip Sistemi (C++)
+# Ders Not Takip Sistemi (C++)
 
+Bu proje C++ dilinde temel kontrol yapıları ve döngüler kullanılarak geliştirilmiş bir konsol uygulamasıdır.
 
+## Özellikler
 
-Bu proje C++ dilinde temel kontrol yapıları ve döngüler
+- Not girme
 
-kullanılarak geliştirilmiş bir konsol uygulamasıdır.
+- Ortalama hesaplama
 
+- En yüksek notu bulma
 
+- En düşük notu bulma
 
-\## Özellikler
+## Kullanılan Konular
 
-\- Not girme
+- if / else
 
-\- Ortalama hesaplama
+- switch-case
 
-\- En yüksek notu bulma
+- for / while döngüleri
 
-\- En düşük notu bulma
+- Temel algoritma geliştirme
 
+## Amaç
 
-
-\## Kullanılan Konular
-
-\- if / else
-
-\- switch-case
-
-\- for / while döngüleri
-
-\- Temel algoritma geliştirme
-
-
-
-\## Amaç
-
-C++ temel konularını pekiştirmek ve GitHub üzerinde
-
-düzenli kod paylaşımı alışkanlığı kazanmak.
-
+C++ temel konularını pekiştirmek ve GitHub üzerinde düzenli kod paylaşımı alışkanlığı kazanmak.
