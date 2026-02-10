@@ -13,7 +13,7 @@ int main()
     
 
     do {
-        cout << "\n--- DERS NOTU TAKİP UYGULAMASI ---\n";
+        cout << "\n--- DERS NOTU TAKIP UYGULAMASI ---\n";
         cout << "1- Not gir\n";
         cout << "2- Ortalama hesapla\n";
         cout << "3- En yuksek notu goster\n";
